@@ -1,13 +1,12 @@
-<h3 style="font-size: 20px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 30px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
-<br>
-<h4 style="font-size: 15px; text-transform: uppercase; margin-top: -25px; text-align: left;">web-developer || javascript enthusiast</h4>
+#### Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## I'm Muhammed Nayeem
+###### WEB-DEVELOPER || JAVASCRIPT ENTHUSIAST
 
 ---
 
-<img align="right" alt="GIF" src="Images/code.gif" width="400" height="270" />
+<img align="right" alt="GIF" src="Images/code.gif" width="400" height="280" />
 
-
-This is the place where I opensource stuff and break things :rofl:
+_This is the place where I opensource stuff and break things_ :rofl:
 
 
 - 🔭 I’m currently working on **Full-Stack Development**
