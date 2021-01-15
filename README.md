@@ -1,18 +1,9 @@
-<!-- <h3 style="display: inline-block; font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
+<h3 style="display: inline-block; font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
 <br>
 <h4 style="font-size: 13px; text-transform: uppercase; margin-top: -10px; text-align: left;">web-developer || javascript enthusiast</h4>
 
-<img style="text-align: right; width: 400px; height: 280px;" alt="GIF" src="Images/code.gif"/> -->
+<img style="text-align: right; width: 400px; height: 280px;" alt="GIF" src="Images/code.gif"/>
 
-<div style="display:flex; flex-flow: row wrap; justify-content: space-between; align-items: center;">
-  <div style="flex-basis: 50%;">
-    <h3 style="font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
-    <h4 style="font-size: 13px; text-transform: uppercase; margin-top: -10px; text-align: left;">web-developer || javascript enthusiast</h4>
-  </div>
-  <div style="flex-basis: 50%;">
-    <img style="text-align: right; width: 400px; height: 280px;" alt="GIF" src="Images/code.gif"/>
-  </div>
-</div>
 
 
 This is the place where I opensource stuff and break things :rofl:
