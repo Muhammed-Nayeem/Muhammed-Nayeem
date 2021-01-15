@@ -1,8 +1,10 @@
-<h3 style="font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
+<h3 style="font-size: 20px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 30px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
 <br>
-<h4 style="font-size: 13px; text-transform: uppercase; margin-top: -10px; text-align: left;">web-developer || javascript enthusiast</h4>
-<img align="right" alt="GIF" src="Images/code.gif" width="400" height="270" />
+<h4 style="font-size: 15px; text-transform: uppercase; margin-top: -25px; text-align: left;">web-developer || javascript enthusiast</h4>
 
+---
+
+<img align="right" alt="GIF" src="Images/code.gif" width="400" height="270" />
 
 
 This is the place where I opensource stuff and break things :rofl:
