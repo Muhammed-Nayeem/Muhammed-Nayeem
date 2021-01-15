@@ -1,6 +1,8 @@
 <h3 style="font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
 <h4 style="font-size: 13px; text-transform: uppercase; margin-top: -10px; text-align: left;">web-developer || javascript enthusiast</h4>
 
+<img align="right" alt="GIF" src="Images/code.gif" width="400" height="280" />
+
 ---
 
 This is the place where I opensource stuff and break things :rofl:
@@ -16,5 +18,5 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I stay always happy. Alhumdulillah!
 
 ---
-####Social Platform
+#### Connect with me:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
