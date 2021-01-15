@@ -1,10 +1,12 @@
-#### Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm Muhammed Nayeem
 ###### WEB-DEVELOPER || JAVASCRIPT ENTHUSIAST
 
 ---
 
 <img align="right" alt="GIF" src="Images/code.gif" width="400" height="280" />
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Muhammed-Nayeem&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammed Nayeem" /></p>
 
 _This is the place where I opensource stuff and break things_ :rofl:
 
