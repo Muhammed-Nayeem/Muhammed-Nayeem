@@ -1,16 +1,20 @@
-### Hi there 👋
+<h3 style="font-size: 20px; margin-top: -10px; text-align: left;">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><br><span style="font-size: 25px; text-transform: capitalize; margin-top: 15px;">I'm Muhammed Nayeem</span></h3>
+<h4 style="font-size: 13px; text-transform: uppercase; margin-top: -10px; text-align: left;">web-developer || javascript enthusiast</h4>
 
-<!--
-**Muhammed-Nayeem/Muhammed-Nayeem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on **Full-Stack Development**
+- 🌱 I’m currently learning from [Programming-Hero](https://www.programming-hero.com/) !!
+- 🌱 And currently I'm learning Everything :rofl:
+- 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
+- 💬 Ask me about anything related to 'JavaScript' / Web-App-Development' !
+- 📫 How to reach me: [@mhnayeem8082](https://twitter.com/mhnayeem8082/) || [@email](mohammednayeem808@gmail.com) !!
+- 😄 Pronouns: He/Him.
+- ⚡ Fun fact: I stay always happy. Alhumdulillah!
+
+---
+####Social Platform
+[Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
