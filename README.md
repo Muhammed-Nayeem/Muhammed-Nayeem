@@ -21,5 +21,11 @@ _This is the place where I opensource stuff and break things_ :rofl:
 - ⚡ Fun fact: I stay always happy. Alhumdulillah!
 
 ---
-#### Connect with me:
+
+📊 **This week I spent my time on:**
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammed_nayeem)](https://github.com/anuraghazra/github-readme-stats)
+
+
+### Connect with me:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
