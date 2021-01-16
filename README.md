@@ -42,8 +42,11 @@ _This is the place where I opensource stuff and break things_ :rofl:
 
 📊 **This week I spent my time on:**
 
-[![muhammed_nayeem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammed_nayeem)](https://github.com/anuraghazra/github-readme-stats)
+[![muhammed_nayeem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammed_nayeem)](https://github.com/Muhammed_Nayema/github-readme-stats)
 
+### Coding Stats:
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Connect with me:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
