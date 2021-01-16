@@ -44,14 +44,14 @@ _This is the place where I opensource stuff and break things_ :rofl:
 :bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Markdown   26 mins         █████████████████████████   100.00 % 
+Markdown   20 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
 
 
 <!-- Social Platforms -->
-#### Connect with me:
+### Connect with me:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
 
 
