@@ -49,4 +49,4 @@ _This is the place where I opensource stuff and break things_ :rofl:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
 
 
-<img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true"/>
+<img align="left" alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true"/>
