@@ -11,14 +11,15 @@
 _This is the place where I opensource stuff and break things_ :rofl:
 
 
-- 🔭 I’m currently working on **Full-Stack Development**
-- 🌱 I’m currently learning from [Programming-Hero](https://www.programming-hero.com/) !!
-- 🌱 And currently I'm learning Everything :rofl:
+- :beginner: I’m currently working on **Full-Stack Development**
+- :notebook: I’m currently learning from [Programming-Hero](https://www.programming-hero.com/) !!
+- :books: And currently I'm learning Everything :rofl:
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
 - 💬 Ask me about anything related to 'JavaScript' / Web-App-Development' !
 - 📫 How to reach me: [@mhnayeem8082](https://twitter.com/mhnayeem8082/) || [@email](mohammednayeem808@gmail.com) !!
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I stay always happy. Alhumdulillah!
+- ⚡ Fun fact: I love editing and Photography :camera: 
 
 ---
 
@@ -36,23 +37,20 @@ _This is the place where I opensource stuff and break things_ :rofl:
 <a href="https://code.visualstudio.com/" target="_blank"><img  alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Nayeem&show_icons=true&locale=en&layout=compact" alt="muhammed-nayeem" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Nayeem&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammed-nayeem" /></p>
 
 ---
 
-📊 **This week I spent my time on:**
-
-[![muhammed_nayeem wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammed_nayeem)](https://github.com/Muhammed_Nayema/github-readme-stats)
-
-### Coding Stats:
+:bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
-```text
-Markdown   26 mins         █████████████████████████   100.00 % 
-```
 <!--END_SECTION:waka-->
 
-### Connect with me:
+
+
+<!-- Social Platforms -->
+#### Connect with me:
 [Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
 
 
-<img align="left" alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true"/>
+<!-- GitHub Stats -->
+<p><img align="left" alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true&theme=tokyonight"/></p>
