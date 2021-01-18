@@ -44,9 +44,10 @@ _This is the place where I opensource stuff and break things_ :rofl:
 :bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Markdown     2 hrs 50 mins   ████████████████████░░░░░   79.95 % 
-JavaScript   26 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-YAML         15 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript   2 hrs 58 mins   ████████████░░░░░░░░░░░░░   48.54 % 
+Markdown     2 hrs 50 mins   ███████████▓░░░░░░░░░░░░░   46.30 % 
+YAML         15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
