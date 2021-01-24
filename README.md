@@ -37,7 +37,10 @@ _This is the place where I opensource stuff and break things_ :rofl:
 <a href="https://code.visualstudio.com/" target="_blank"><img  alt="Visual Studio Code" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Nayeem&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammed-nayeem" /></p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammed-Nayeem&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammed-nayeem"/>
+<img alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true&theme=tokyonight"/>
+</p>
 
 ---
 
@@ -57,4 +60,4 @@ JSON         2 mins          ░░░░░░░░░░░░░░░░░
 
 
 <!-- GitHub Stats -->
-<p><img align="left" alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true&theme=tokyonight"/></p>
+<p><img alt="Nayeem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Muhammed-Nayeem&show_icons=true&hide_border=true&theme=tokyonight"/></p>
