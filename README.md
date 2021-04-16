@@ -47,7 +47,7 @@ _This is the place where I opensource stuff and break things_ :rofl:
 :bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   6 hrs 10 mins   █████████████████████████   99.97 % 
+JavaScript   4 hrs 58 mins   █████████████████████████   99.96 % 
 ```
 <!--END_SECTION:waka-->
 
