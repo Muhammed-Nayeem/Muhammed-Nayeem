@@ -54,4 +54,4 @@ JavaScript   1 hr 21 mins    █████████████████
 
 <!-- Social Platforms -->
 ### Connect with me:
-[Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/muhammed-nayeem69/) || [Twitter](https://twitter.com/mhnayeem8082/)
+[Facebook](https://www.facebook.com/mh.nayem.7186/) || [Instagram](https://www.instagram.com/muhammed_nayeem96/) || [Linkedin](https://www.linkedin.com/in/muhammednayeem/) || [Twitter](https://twitter.com/mhnayeem8082/)
