@@ -15,8 +15,8 @@ _This is the place where I opensource stuff and break things_ :rofl:
 - :books: And currently I'm learning Everything :rofl:
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
-- 💬 Ask me about anything related to 'JavaScript' / Web-App-Development' !
-- 📫 How to reach me: [@mhnayeem8082](https://twitter.com/mhnayeem8082/) || [@email](mohammednayeem808@gmail.com) !!
+- 💬 Ask me about anything related to 'JavaScript' || 'Web-Development' !
+- 📫 How to reach me: [Resume](https://drive.google.com/drive/u/0/folders/1DFsKWOqlOOWvD6hERNVY3lMBMuw6Rp76) || [E-mail](mohammednayeem808@gmail.com) !!
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I love editing and Photography :camera: 
 
