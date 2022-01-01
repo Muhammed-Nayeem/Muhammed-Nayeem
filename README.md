@@ -7,14 +7,14 @@
 <img align="right" alt="GIF" src="Images/code.gif" width="400" height="280" />
 
 
-_This is the place where I opensource stuff and break things_ :rofl:
+_This is the place where I open-source stuff and break things_ :rofl:
 
 
 - :beginner: I’m currently working on **Full-Stack Development**
 - :notebook: I’m currently learning from [Programming-Hero](https://www.programming-hero.com/) !!
 - :books: And currently I'm learning Everything :rofl:
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🥅 2021 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
+- 🥅 2022 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
 - 💬 Ask me about anything related to 'JavaScript' || 'Web-Development' !
 - 📫 How to reach me: [Resume](https://drive.google.com/file/d/1kt5Lv1KhdpsylIwbxrshbkXVjMpDAOTT/view?usp=sharing) || [E-mail](mohammednayeem808@gmail.com) !!
 - 😄 Pronouns: He/Him.
