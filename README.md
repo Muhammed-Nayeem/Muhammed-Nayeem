@@ -46,12 +46,13 @@ _This is the place where I open-source stuff and break things_ :rofl:
 :bar_chart: **This week I spent my time on:**
 <!--START_SECTION:waka-->
 ```text
-Total: 15 hrs 20 mins
+Total: 13 hrs 13 mins
 
-SCSS         10 hrs 7 mins   ████████████████▓░░░░░░░░   66.01 % 
-HTML         3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-JavaScript   1 hr 32 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+SCSS         8 hrs 24 mins   ████████████████░░░░░░░░░   63.52 % 
+HTML         2 hrs 36 mins   █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+JavaScript   2 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 <!--END_SECTION:waka-->
 
