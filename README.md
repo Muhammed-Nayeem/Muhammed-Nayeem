@@ -47,8 +47,8 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```text
-Text       1 hr 8 mins     ████████████████▒░░░░░░░░   65.37 %
-Markdown   36 mins         ████████▓░░░░░░░░░░░░░░░░   34.63 %
+Markdown   1 hr 23 mins    █████████████▓░░░░░░░░░░░   55.08 %
+Text       1 hr 8 mins     ███████████▒░░░░░░░░░░░░░   44.92 %
 ```
 
 <!--END_SECTION:waka-->
