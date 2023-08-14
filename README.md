@@ -47,11 +47,11 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   6 hrs 55 mins   ███████████████████████▓░   94.12 %
-JSON         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
-HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-Text         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+JavaScript   9 hrs 33 mins   ███████████████████████▓░   95.08 %
+JSON         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other        9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+HTML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
