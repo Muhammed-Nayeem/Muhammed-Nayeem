@@ -47,9 +47,9 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   5 hrs 19 mins   ████████████████████████░   95.94 %
-JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+JavaScript   6 hrs           ████████████████████████░   96.35 %
+JSON         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
