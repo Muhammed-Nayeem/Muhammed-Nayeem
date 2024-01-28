@@ -4,7 +4,7 @@
 
 ---
 
-<img align="right" alt="GIF" src="Images/code.gif" width="300" height="250" />
+<img align="right" alt="GIF" src="Images/code.gif" width="320" height="220" />
 
 
 _This is the place where I open-source stuff and break things_ :rofl:
