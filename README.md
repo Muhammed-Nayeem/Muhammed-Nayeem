@@ -1,6 +1,6 @@
 ### Hi There...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ## I'm Muhammed Nayeem
-###### WEB-DEVELOPER || JAVASCRIPT ENTHUSIAST
+###### Software Developer(Web) || Software QA Engineer
 
 ---
 
@@ -10,15 +10,12 @@
 _This is the place where I open-source stuff and break things_ :rofl:
 
 
-- :beginner: I’m currently working on **Full-Stack Development**
-- :notebook: I’m currently learning from [Programming-Hero](https://www.programming-hero.com/) !!
+- :beginner: I’m currently working on **Full-Stack Development** & **Software QA Engineering**.
 - :books: And currently I'm learning Everything :rofl:
 - :computer: Most used line of code `git commit -m "Initial Commit"`
-- 🥅 2022 goals: Learn JS, React.js, Node.js, Express.js & so many projects.
-- 💬 Ask me about anything related to 'JavaScript' || 'Web-Development' !
-- 📫 How to reach me: [Resume](https://drive.google.com/file/d/1kt5Lv1KhdpsylIwbxrshbkXVjMpDAOTT/view?usp=sharing) || [E-mail](mohammednayeem808@gmail.com) !!
+- 💬 Ask me about anything related to 'MERN' || 'SQA' !
+- 📫 How to reach me: [E-mail](mohammednayeem808@gmail.com) !!
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love editing and Photography :camera: 
 
 ---
 
