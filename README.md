@@ -44,8 +44,8 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    2 hrs 49 mins   ████████████████████░░░░░   79.96 %
-HTML   42 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+CSS    2 hrs 10 mins   █████████████████████▓░░░   86.62 %
+HTML   20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
 ```
 
 <!--END_SECTION:waka-->
