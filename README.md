@@ -44,11 +44,11 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   17 hrs 19 mins  ██████████████████████░░░   87.66 %
-JSON         1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
-CSS          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
-HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript   19 hrs 11 mins  █████████████████████▓░░░   86.76 %
+JSON         1 hr 49 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+Markdown     29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+CSS          25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+HTML         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
