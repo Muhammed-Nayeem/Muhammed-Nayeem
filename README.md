@@ -44,7 +44,8 @@ _This is the place where I open-source stuff and break things_ :rofl:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+CSS    1 hr 26 mins    █████████████▒░░░░░░░░░░░   53.14 %
+HTML   1 hr 16 mins    ███████████▓░░░░░░░░░░░░░   46.86 %
 ```
 
 <!--END_SECTION:waka-->
